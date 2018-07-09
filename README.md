@@ -1,4 +1,4 @@
-#Git Internals
+# Git Internals
 
 The Git Internals project was created to utilize the Java Class Structure to simulate the Git version control system. The JDK version used was 8 and the JUnit version is 4. There are appropriate tests to test the functionality of the code will achieve what the assignment entailed.
 
